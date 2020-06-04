@@ -5,6 +5,7 @@ This is a demo for Amazon SageMaker build-in algo [BlazingText](https://docs.aws
 本示例为Amazon SageMaker内置算法BlazingText在中文新闻标题分类的一个Demo。BlazingText可以做word2vec和文本分类。
 
 The origin data is from https://github.com/skdjfla/toutiao-text-classfication-dataset
+
 原始数据集来源于：https://github.com/skdjfla/toutiao-text-classfication-dataset
 
 数据格式：
